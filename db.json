@@ -1,0 +1,40 @@
+{
+  "Questions": [
+    {
+      "id": "1",
+      "name": "java",
+      "question": "what is java",
+      "answer": "java is an programming language"
+    },
+    {
+      "id": "2",
+      "name": "java",
+      "question": "What are the features of JAVA?",
+      "answer": "Platform independent: A single program works on different platforms without any modification.High Performance: JIT (Just In Time compiler) enables high performance in Java. JIT converts the bytecode into machine language and then JVM starts the execution.Multi-threaded: A flow of execution is known as a Thread. JVM creates a thread which is called the main thread. The user can create multiple threads by extending the thread class or by implementing the Runnable interface."
+    },
+    {
+      "id": "3",
+      "name": "java",
+      "question": " How does Java enable high performance?",
+      "answer": "Java uses Just In Time compiler to enable high performance. It is used to convert the instructions into bytecodes."
+    },
+    {
+      "id": "4",
+      "name": "python",
+      "question": " What is PEP 8?",
+      "answer": "PEP 8 stands for Python Enhancement Proposal, it can be defined as a document that helps us to provide the guidelines on how to write the Python code. It is basically a set of rules that specify how to format Python code for maximum readability. It was written by Guido van Rossum, Barry Warsaw and Nick Coghlan in 2001."
+    },
+    {
+      "id": "5",
+      "name": "python",
+      "question": "Python is an interpreted language. Explain.",
+      "answer": "An interpreted language is any programming language which executes its statements line by line.Programs written in Python run directly from the source code, with no intermediary compilation step."
+    },
+    {
+      "id": "6",
+      "name": "python",
+      "question": "What is Python?",
+      "answer": "Python is a high-level, interpreted, interactive, and object-oriented scripting language. It uses English keywords frequently. Whereas, other languages use punctuation, Python has fewer syntactic constructions.Python is designed to be highly readable and compatible with different platforms such as Mac, Windows, Linux, Raspberry Pi, etc."
+    }
+  ]
+}
